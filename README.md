@@ -1,3 +1,3 @@
-# java-PROGRAMMING-WORKS
+# JAVA-PROGRAMMING-WORKS
 java
 programs 
